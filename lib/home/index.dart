@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:scratch_app/constants.dart';
-import 'package:scratch_app/home/exercises/exercise6.dart';
-import 'package:scratch_app/home/exercises/exercise7.dart';
+import '../constants.dart';
 import 'exercises/exercise1.dart';
 import 'exercises/exercise2.dart';
 import 'exercises/exercise3.dart';
 import 'exercises/exercise4.dart';
 import 'exercises/exercise5.dart';
+import 'exercises/exercise6.dart';
+import 'exercises/exercise7.dart';
 
 class Home extends StatelessWidget {
   const Home({Key? key}) : super(key: key);

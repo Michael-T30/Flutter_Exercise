@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:scratch_app/constants.dart';
 
 class Exercise5 extends StatelessWidget {
   const Exercise5({Key? key}) : super(key: key);

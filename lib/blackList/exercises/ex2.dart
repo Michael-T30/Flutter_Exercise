@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:scratch_app/constants.dart';
+import '../../constants.dart';
 
 class Ex2 extends StatefulWidget {
   const Ex2({Key? key}) : super(key: key);

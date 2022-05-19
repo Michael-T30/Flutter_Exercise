@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:scratch_app/constants.dart';
+
+import '../../constants.dart';
 
 class Ex1 extends StatefulWidget {
   const Ex1({Key? key}) : super(key: key);
